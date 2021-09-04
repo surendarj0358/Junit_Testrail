@@ -1,0 +1,11 @@
+/home/abhim/ProjectsGen/karate-git/SeleniumAmazonAssgn/src/main/java/com/zemoso/pageObjects/base/BasePagePO.java
+/home/abhim/ProjectsGen/karate-git/SeleniumAmazonAssgn/src/main/java/com/zemoso/pageObjects/base/GenericDriver.java
+/home/abhim/ProjectsGen/karate-git/SeleniumAmazonAssgn/src/main/java/com/zemoso/pageObjects/YourAccountPO.java
+/home/abhim/ProjectsGen/karate-git/SeleniumAmazonAssgn/src/main/java/com/zemoso/pageObjects/YourOrdersPO.java
+/home/abhim/ProjectsGen/karate-git/SeleniumAmazonAssgn/src/main/java/com/zemoso/pageObjects/PaymentOptionsPO.java
+/home/abhim/ProjectsGen/karate-git/SeleniumAmazonAssgn/src/main/java/com/zemoso/pageObjects/CartPO.java
+/home/abhim/ProjectsGen/karate-git/SeleniumAmazonAssgn/src/main/java/com/zemoso/pageObjects/YourAddressesPO.java
+/home/abhim/ProjectsGen/karate-git/SeleniumAmazonAssgn/src/main/java/com/zemoso/pageObjects/mainPages/LoggedInMainPagePO.java
+/home/abhim/ProjectsGen/karate-git/SeleniumAmazonAssgn/src/main/java/com/zemoso/pageObjects/AddAddressPO.java
+/home/abhim/ProjectsGen/karate-git/SeleniumAmazonAssgn/src/main/java/com/zemoso/pageObjects/mainPages/BasePageNonLoggedInPO.java
+/home/abhim/ProjectsGen/karate-git/SeleniumAmazonAssgn/src/main/java/com/zemoso/pageObjects/ChooseDeliveryOptionsPO.java

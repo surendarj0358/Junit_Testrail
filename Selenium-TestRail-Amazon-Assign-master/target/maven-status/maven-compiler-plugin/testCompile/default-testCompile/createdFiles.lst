@@ -1,0 +1,6 @@
+com/zemoso/tests/SeleniumAmazonTest.class
+com/zemoso/tests/YourOrdersTest.class
+com/zemoso/tests/AddressAdditionTest.class
+config/TestRailConfig.class
+config/InitialConfig.class
+com/zemoso/tests/AddNewPaymentTest.class

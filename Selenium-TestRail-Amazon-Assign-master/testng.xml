@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Test Suite-1" >
+    <test name="Test Case-1" >
+        <classes>
+<!--            <class name="com.zemoso.tests.SeleniumAmazonTest" />-->
+<!--            <class name="com.zemoso.tests.YourOrdersTest" />-->
+<!--            <class name="com.zemoso.tests.AddressAdditionTest" />-->
+            <class name="com.zemoso.tests.AddNewPaymentTest" />
+        </classes>
+    </test>
+</suite>
